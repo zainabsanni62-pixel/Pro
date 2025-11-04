@@ -4,7 +4,7 @@ import telebot
 from datetime import datetime
 
 # Your bot token from BotFather
-BOT_TOKEN = "AAEfnDGBdLkLCtIJb_dpngCi7Luxlv8hirs"
+BOT_TOKEN = "8586657993:AAEfnDGBdLkLCtIJb_dpngCi7Luxlv8hirs"
 CHAT_ID = -8586657993  # Replace with your group ID
 
 bot = telebot.TeleBot(BOT_TOKEN)
